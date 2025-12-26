@@ -39,18 +39,8 @@ I specialize in <b>vulnerability research</b> (finding what others miss) and <b>
 <br/>
 
 <div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="55%" align="center" valign="top">
 <h3 align="center">📊 Activity</h3>
 <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.base.svg" width="100%" alt="Base Stats" />
-</td>
-<td width="45%" align="center" valign="top">
-<h3 align="center">🏆 Achievements</h3>
-<img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.achievements.svg" width="100%" alt="Achievements" />
-</td>
-</tr>
-</table>
 </div>
 
 <br/>
@@ -66,23 +56,13 @@ I specialize in <b>vulnerability research</b> (finding what others miss) and <b>
 
 <br/><br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="60%" align="center" valign="top">
 <h3>🐍 Contribution Snake</h3>
 <img src="https://github.com/IndAlok/IndAlok/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
-</td>
-<td width="40%" align="center" valign="top">
+
+<br/><br/>
+
 <h3>🗣 Languages</h3>
 <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.languages.svg" width="100%" alt="Languages" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h3>⚡ Recent Habits</h3>
-<img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.habits.svg" width="100%" alt="Habits" />
 
 </div>
 </details>
