@@ -1,22 +1,21 @@
 
-<!-- Dynamic Header with Fixed Width for Typing SVG -->
+<!-- Premium Header with "Rect" shape for professional look -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=280&section=header&text=IndAlok&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Quant%20Dev&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-  
-  <br/>
-
-  <!-- Typing SVG: Increased width to prevent cutoff, centered -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+Secure+Digital+Infrastructure;Quantifying+Risk+with+Stochastic+Models;Reversing+Binaries+@+RizinOrg;Breaking+IDORs+@+DigiLocker" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=IndAlok&fontSize=80&fontColor=10b981&fontAlignY=45&desc=Security%20Researcher%20%7C%20Quant%20Dev&descAlignY=65&descAlign=50&stroke=10b981&strokeWidth=2" width="100%" alt="Header" />
 </div>
 
 <br/>
 
-<!-- Socials Badge Row -->
+<!-- Bio & Socials (Compact Row) -->
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+Secure+Digital+Infrastructure;Quantifying+Risk+with+Stochastic+Models;Reversing+Binaries+@+RizinOrg;Breaking+IDORs+@+DigiLocker" alt="Typing Bio" />
+  </a>
+  
+  <br/><br/>
+  
   <a href="https://indalok.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-indalok.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Deployment-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/indalok">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,40 +25,9 @@
   </a>
 </div>
 
-<br/><br/>
-
-<!-- Advanced Metrics Section (Generated via GitHub Actions) -->
-<!-- 1. Base Stats & Languages -->
-<div align="center">
-  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-base.svg" width="100%" alt="General Stats" />
-</div>
-
 <br/>
 
-<!-- 2. Achievements (Dynamic Trophies) -->
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-achievements.svg" width="100%" alt="Achievements" />
-</div>
-
-<br/>
-
-<!-- 3. Isometric Commit Calendar -->
-<div align="center">
-  <h3>📅 Contribution Activity</h3>
-  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-iso.svg" width="100%" alt="Isometric Calendar" />
-</div>
-
-<br/>
-
-<!-- 4. Snake Animation -->
-<div align="center">
-  <img src="https://github.com/IndAlok/IndAlok/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-</div>
-
-<br/>
-
-<!-- Tech Stack (Static high-quality icons) -->
+<!-- Tech Stack (Clean Grid) -->
 <div align="center">
   <h3>🛠 Technical Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,nextjs,react,tailwind,nodejs,postgres,redis" />
@@ -67,8 +35,46 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,bash,git,github,vscode,vim,idea,kali" />
 </div>
 
+<br/><br/>
+
+<!-- Core Metrics Grid -->
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="55%" align="center" valign="top">
+        <!-- Base Stats -->
+        <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-base.svg" width="100%" alt="Stats" />
+      </td>
+      <td width="45%" align="center" valign="top">
+        <!-- Languages -->
+        <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-langs.svg" width="100%" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- Habits Chart (Full Width) -->
+  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-habits.svg" width="90%" alt="Habits" />
+</div>
+
+<br/><br/>
+
+<!-- Detailed Contribution Info (Bottom Section) -->
+<div align="center">
+  <h3>🧩 Contribution DNA</h3>
+  
+  <!-- Isometric Calendar -->
+  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-iso.svg" width="100%" alt="Isometric Calendar" />
+  
+  <br/><br/>
+  
+  <!-- Snake Animation -->
+  <img src="https://github.com/IndAlok/IndAlok/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IndAlok&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IndAlok&style=flat-square&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

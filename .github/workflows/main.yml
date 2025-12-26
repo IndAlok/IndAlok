@@ -10,45 +10,47 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Base Stats (Large central dashboard)
-      - name: General Stats & Languages
+      # 1. Base Stats (Compact & Reliable)
+      - name: Base Stats
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-base.svg
           user: IndAlok
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
-          config_order: base.header, base.activity+community, base.repositories, languages, habits
-          plugin_languages: yes
-          plugin_languages_skipped: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, ejs
-          plugin_languages_sections: most-used
-          plugin_languages_details: lines, percentage
-          plugin_languages_limit: 8
           plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_stargazers: yes
+          plugin_traffic: yes
           
-      # 2. Achievements (Replacing Trophies)
-      - name: Achievements & Trophies
+      # 2. Languages (Separate for clean layout)
+      - name: Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics-achievements.svg
+          filename: github-metrics-langs.svg
           user: IndAlok
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_details: lines, percentage
           
-      # 3. Isometric Calendar (3D View)
+      # 3. Habits (Tuned to avoid errors)
+      - name: Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-habits.svg
+          user: IndAlok
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 100       # Reduced from 200
+          plugin_habits_days: 14        # Keep recent
+          plugin_habits_facts: no       # Disable facts (prone to errors)
+          plugin_habits_charts: yes     # Keep visual charts
+
+      # 4. Isometric Calendar (The Big One)
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
