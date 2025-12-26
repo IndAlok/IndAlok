@@ -1,15 +1,15 @@
 
-<!-- Premium Header with "Rect" shape for professional look -->
+<!-- Premium Header: Transparent styling for a cleaner look -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=IndAlok&fontSize=80&fontColor=10b981&fontAlignY=45&desc=Security%20Researcher%20%7C%20Quant%20Dev&descAlignY=65&descAlign=50&stroke=10b981&strokeWidth=2" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=250&section=header&text=IndAlok&fontSize=90&fontColor=10b981&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Quant%20Dev&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 </div>
 
 <br/>
 
-<!-- Bio & Socials (Compact Row) -->
+<!-- Bio & Links -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+Secure+Digital+Infrastructure;Quantifying+Risk+with+Stochastic+Models;Reversing+Binaries+@+RizinOrg;Breaking+IDORs+@+DigiLocker" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Building+Secure+Digital+Infrastructure;Quantifying+Risk+with+Stochastic+Models;Reversing+Binaries+@+RizinOrg;Breaking+IDORs+@+DigiLocker" alt="Typing Bio" />
   </a>
   
   <br/><br/>
@@ -27,54 +27,58 @@
 
 <br/>
 
-<!-- Tech Stack (Clean Grid) -->
+<!-- Tech Stack -->
 <div align="center">
   <h3>🛠 Technical Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,nextjs,react,tailwind,nodejs,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,nextjs,react,tailwind,nodejs,postgres,redis&perline=12" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,bash,git,github,vscode,vim,idea,kali" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,bash,git,github,vscode,vim,idea,kali&perline=12" />
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- Core Metrics Grid -->
+<!-- Base Stats & Achievements -->
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="55%" align="center" valign="top">
-        <!-- Base Stats -->
+      <td width="60%" align="center" valign="top">
         <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-base.svg" width="100%" alt="Stats" />
       </td>
-      <td width="45%" align="center" valign="top">
-        <!-- Languages -->
-        <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-langs.svg" width="100%" alt="Languages" />
+      <td width="40%" align="center" valign="top">
+        <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-achievements.svg" width="100%" alt="Achievements" />
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <!-- Habits Chart (Full Width) -->
-  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-habits.svg" width="90%" alt="Habits" />
 </div>
 
 <br/><br/>
 
-<!-- Detailed Contribution Info (Bottom Section) -->
+<!-- DETAILED CONTRIBUTIONS (Bottom Section as Requested) -->
 <div align="center">
-  <h3>🧩 Contribution DNA</h3>
+  <h2>🧩 Detailed Contribution Analytics</h2>
   
-  <!-- Isometric Calendar -->
+  <!-- Languages -->
+  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-langs.svg" width="100%" alt="Languages" />
+  
+  <br/><br/>
+  
+  <!-- Habits -->
+  <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-habits.svg" width="100%" alt="Habits" />
+  
+  <br/><br/>
+  
+  <!-- Isocalendar -->
   <img src="https://github.com/IndAlok/IndAlok/blob/main/github-metrics-iso.svg" width="100%" alt="Isometric Calendar" />
   
   <br/><br/>
   
-  <!-- Snake Animation -->
+  <!-- Snake -->
   <img src="https://github.com/IndAlok/IndAlok/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
 </div>
 
 <br/>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IndAlok&style=flat-square&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IndAlok&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
