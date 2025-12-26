@@ -42,11 +42,11 @@ I specialize in <b>vulnerability research</b> (finding what others miss) and <b>
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="55%" align="center" valign="top">
 <h3 align="center">📊 Activity</h3>
 <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.base.svg" width="100%" alt="Base Stats" />
 </td>
-<td width="50%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 <h3 align="center">🏆 Achievements</h3>
 <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.achievements.svg" width="100%" alt="Achievements" />
 </td>
