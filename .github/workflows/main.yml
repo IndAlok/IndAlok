@@ -1,10 +1,7 @@
 name: Metrics & Snake
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (Optional) Run workflow manually
   workflow_dispatch:
-  # (Optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -17,7 +14,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          # Options
           user: IndAlok
           template: classic
           base: header, activity, community, repositories, metadata
@@ -40,6 +36,8 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions: 
+      contents: write # CRITICAL FIX: Explicitly grant write permission to GITHUB_TOKEN
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
