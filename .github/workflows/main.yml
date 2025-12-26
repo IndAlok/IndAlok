@@ -10,7 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Base Stats
       - name: Stats
         uses: lowlighter/metrics@latest
         with:
@@ -22,7 +21,6 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
 
-      # 2. Achievements (Robust config)
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
@@ -31,11 +29,10 @@ jobs:
           user: IndAlok
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact # Compact is less prone to rendering height errors
-          plugin_achievements_threshold: X     # Show ALL achievements
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: X
           plugin_achievements_secrets: yes
 
-      # 3. Languages
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -48,7 +45,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
 
-      # 4. Habits (Ultra-Safe Mode)
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
@@ -57,12 +53,11 @@ jobs:
           user: IndAlok
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 60       # Look back 60 days (more data = less errors)
-          plugin_habits_facts: no      # Disable text facts (often errors)
-          plugin_habits_charts: yes    # Keep the charts
+          plugin_habits_from: 1000
+          plugin_habits_days: 365
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
 
-      # 5. IsoCalendar
       - name: IsoCalendar
         uses: lowlighter/metrics@latest
         with:

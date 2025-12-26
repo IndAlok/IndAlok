@@ -38,7 +38,6 @@ I specialize in <b>vulnerability research</b> (finding what others miss) and <b>
 
 <br/>
 
-<!-- METRICS GRID -->
 <div align="center">
 <table border="0" width="100%">
 <tr>
