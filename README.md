@@ -69,25 +69,34 @@
     </tr>
   </table>
   
-  <br/>
-
-  <!-- Row 2: Contribution Visuals -->
-  <h3 align="center">🧬 Contribution DNA</h3>
-  <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.iso.svg" width="100%" alt="Isometric Calendar" />
-  
   <br/><br/>
-  
-  <!-- Row 3: Languages & Snake -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="60%" align="center" valign="top">
-        <img src="https://github.com/IndAlok/IndAlok/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
-      </td>
-      <td width="40%" align="center" valign="top">
-        <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.languages.svg" width="100%" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- Detailed Contribution Info (Collapsible) -->
+  <details>
+    <summary><b>Click for Detailed Contribution Info & Metrics</b></summary>
+    <br/>
+    <div align="center">
+        <!-- Isometric Calendar -->
+        <h3>🧬 Isometric Contribution Map</h3>
+        <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.iso.svg" width="100%" alt="Isometric Calendar" />
+        
+        <br/><br/>
+        
+        <!-- Row 2: Languages & Snake -->
+        <table border="0" width="100%">
+            <tr>
+            <td width="60%" align="center" valign="top">
+                <h3>🐍 Contribution Snake</h3>
+                <img src="https://github.com/IndAlok/IndAlok/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+            </td>
+            <td width="40%" align="center" valign="top">
+                <h3>🗣 Languages</h3>
+                <img src="https://github.com/IndAlok/IndAlok/blob/main/metrics.languages.svg" width="100%" alt="Languages" />
+            </td>
+            </tr>
+        </table>
+    </div>
+  </details>
 
 </div>
 
