@@ -1,4 +1,4 @@
-name: Metrics & Snake
+name: Advanced Metrics & Snake
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -10,34 +10,60 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. Base Stats (Large central dashboard)
+      - name: General Stats & Languages
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
+          filename: github-metrics-base.svg
           user: IndAlok
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          config_order: base.header, base.activity+community, base.repositories, languages, habits
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+          plugin_languages_skipped: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, ejs
+          plugin_languages_sections: most-used
+          plugin_languages_details: lines, percentage
           plugin_languages_limit: 8
           plugin_lines: yes
-          plugin_traffic: yes
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_stargazers: yes
           
+      # 2. Achievements (Replacing Trophies)
+      - name: Achievements & Trophies
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-achievements.svg
+          user: IndAlok
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+          
+      # 3. Isometric Calendar (3D View)
+      - name: Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-iso.svg
+          user: IndAlok
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
   generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions: 
-      contents: write # CRITICAL FIX: Explicitly grant write permission to GITHUB_TOKEN
+      contents: write
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
