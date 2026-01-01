@@ -1,7 +1,7 @@
 <svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble { fill: #e9e9eb; }
-    a { fill: #0079ff; text-decoration: underline; }
+    a { fill: #0079ff; text-decoration: underline; font-weight: 600; }
     text { fill: #242424; font-size: 17px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: -0.02em; }
     .typing-1 { opacity: 0; animation: fade-in-out 1.5s; }
     .msg-1 { animation: wait 1.7s, msg-1 0.2s 1.7s; }
@@ -22,7 +22,7 @@
     @keyframes msg-5 { 0% { opacity: 0; transform: translate(10px, 197px); } 100% { opacity: 1; transform: translate(10px, 192px); } }
     @media (prefers-color-scheme: dark) {
       .bubble { fill: #3b3b3d; }
-      text { fill: #dcdcdc; }
+      text { fill: #f0f0f0; }
       a { fill: #58a6ff; }
     }
   </style>
@@ -37,8 +37,8 @@
   </g>
 
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="150" height="42" rx="18" />
-    <text x="15" y="27">Hey there! I'm Alok</text>
+    <rect width="360" height="42" rx="18" />
+    <text x="15" y="27">Hi, I'm Alok — Vulnerability Researcher &amp; Dev</text>
   </g>
 
   <g transform="translate(10, 48)" class="typing-2">
@@ -51,8 +51,8 @@
   </g>
 
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="430" height="42" rx="18" class="bubble" />
-    <text x="15" y="27">B.Tech @ IIITDM Jabalpur | JEE Top 1.2%</text>
+    <rect width="475" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">Reported 10+ Critical Vulns in National Infrastructure (MeitY)</text>
   </g>
 
   <g transform="translate(10, 96)" class="typing-3">
@@ -65,8 +65,8 @@
   </g>
 
   <g transform="translate(10, 96)" class="msg-3">
-    <rect width="480" height="42" rx="18" class="bubble" />
-    <text x="15" y="27">I build AI systems, quant models, and secure software</text>
+    <rect width="490" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">Acknowledged for Securing DigiLocker (500M+ global users)</text>
   </g>
 
   <g transform="translate(10, 144)" class="typing-4">
@@ -79,8 +79,8 @@
   </g>
 
   <g transform="translate(10, 144)" class="msg-4">
-    <rect width="500" height="42" rx="18" class="bubble" />
-    <text x="15" y="27">Previously secured DigiLocker | Open Source @ Rizin</text>
+    <rect width="460" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">National Hackathon Winner | Building Scalable, Secure AI</text>
   </g>
 
   <g transform="translate(10, 192)" class="typing-5">
@@ -93,7 +93,7 @@
   </g>
 
   <g transform="translate(10, 192)" class="msg-5">
-    <rect width="430" height="42" rx="18" class="bubble" />
-    <text x="15" y="27">Let's connect → <a xlink:href="https://telegram.me/IndAlok">Telegram</a> or <a xlink:href="mailto:alok16022006@gmail.com">Email</a></text>
+    <rect width="440" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">Let&apos;s talk → <a xlink:href="https://telegram.me/IndAlok">Telegram</a> or <a xlink:href="mailto:alok16022006@gmail.com">alok16022006@gmail.com</a></text>
   </g>
 </svg>

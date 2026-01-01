@@ -21,26 +21,26 @@
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Security+Researcher;Building+AI-Powered+Financial+Systems;Open+Source+Contributor+%40+Rizin;Previously+Secured+DigiLocker+(500M%2B+Users)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Vulnerability+Researcher+%7C+Quant+Finance+Dev;Engineering+Secure+Digital+Assets;Contributing+to+the+Rizin+Core+Framework;Previously+Secured+National+Infrastructure" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 <div align="center">
 <p>
-🎓 <b>B.Tech ECE</b> @ IIITDM Jabalpur | <b>JEE Top 1.2%</b> (Rank 18,000 / 1.5M)
+🔐 <b>Vulnerability Researcher</b> — Reported 10+ critical security flaws in national digital infrastructure.
 <br/>
-� <b>Previously secured</b> national infrastructure at <b>DigiLocker</b> — acknowledged on <a href="https://www.digilocker.gov.in/security">Security Hall of Fame</a>
+🏛️ <b>Security Contributor</b> — Officially acknowledged by <b>MeitY</b> for securing <b>DigiLocker</b> (500M+ users).
 <br/>
-🔧 <b>Open Source Contributor</b> to <b>Rizin</b> reverse engineering framework (5 merged PRs)
+🔧 <b>Rizin Framework Contributor</b> — Active developer in the UNIX-like reverse engineering ecosystem.
 <br/>
-📊 <b>Building</b> AI-powered financial systems, quant models, and full-stack applications
+🏆 <b>National Hackathon Winner</b> — Engineering AI-driven solutions for finance and risk management.
 </p>
 </div>
 
 <br/>
 
-## 💻 Technical Arsenal
+## 💻 Integrated Domain Mastery & Tooling
 
 <div align="center">
 <table>
@@ -152,44 +152,22 @@
 <br/>
 
 <details>
-<summary><h3>🧰 Extended Toolkit</h3></summary>
+<summary><h3>🛠️ Core Competencies & Software Arsenal</h3></summary>
 <br>
 
-<h4 align="center">🌐 Web & Backend</h4>
+<h4 align="center">🌐 Engineering & Deployment</h4>
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat&logo=node.js&logoColor=white">
 <img alt="Express" src="https://img.shields.io/badge/Express-404d59.svg?style=flat&logo=express&logoColor=white">
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
 <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB.svg?style=flat&logo=material-ui&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
 </p>
 
-<h4 align="center">🗄️ Databases & Cloud</h4>
-<p align="center">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat&logo=mongodb&logoColor=white">
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black">
-<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?style=flat&logo=neo4j&logoColor=white">
-<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?style=flat&logo=pinecone&logoColor=white">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white">
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white">
-</p>
-
-<h4 align="center">🤖 AI & Data</h4>
-<p align="center">
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini_AI-4285F4.svg?style=flat&logo=google&logoColor=white">
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat&logo=langchain&logoColor=white">
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white">
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white">
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white">
-</p>
-
-<h4 align="center">🔐 Security & Reverse Engineering</h4>
+<h4 align="center">🛡️ Cybersecurity & Intelligence</h4>
 <p align="center">
 <img alt="Frida" src="https://img.shields.io/badge/Frida-E5403C.svg?style=flat&logo=frida&logoColor=white">
 <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-FF0000.svg?style=flat&logo=ghidra&logoColor=white">
@@ -201,14 +179,15 @@
 <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=flat&logo=metasploit&logoColor=white">
 </p>
 
-<h4 align="center">📱 Mobile & DevOps</h4>
+<h4 align="center">📈 Finance, Data & AI</h4>
 <p align="center">
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
-<img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?style=flat&logo=expo&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2671E5.svg?style=flat&logo=github-actions&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white">
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini_AI-4285F4.svg?style=flat&logo=google&logoColor=white">
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat&logo=langchain&logoColor=white">
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?style=flat&logo=neo4j&logoColor=white">
+<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?style=flat&logo=pinecone&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white">
 </p>
 
 </details>
