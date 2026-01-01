@@ -1,36 +1,40 @@
 <div align="center">
-<a href="https://twitter.com/IndAnony"><img src="https://github.com/IndAlok/IndAlok/blob/main/chat.svg" alt="Chat with IndAlok" /></a>
+<a href="https://telegram.me/IndAlok"><img src="https://github.com/IndAlok/IndAlok/blob/main/chat.svg" alt="Chat with IndAlok" /></a>
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https://twitter.com/IndAnony"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/indalok"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/xrWY8TC.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://indalok.medium.com"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/liWxG3z.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:alok16022006@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/yC3SNIB.png"/></a>
+  <a href="https://linkedin.com/in/indalok"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;
+  <a href="https://indalok.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a>&nbsp;
+  <a href="https://telegram.me/IndAlok"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28"/></a>&nbsp;
+  <a href="https://twitter.com/IndAnony"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"/></a>&nbsp;
+  <a href="mailto:alok16022006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 </p>
 
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Quant+Developer;Reversing+Binaries+%40+RizinOrg;Securing+Infrastructure+%40+DigiLocker;Building+AI-Powered+Financial+Systems" alt="Typing SVG" /></a>
+<a href="https://indalok.github.io"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-10b981?style=for-the-badge&logoColor=white" height="35"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Security+Researcher;Building+AI-Powered+Financial+Systems;Open+Source+Contributor+%40+Rizin;Previously+Secured+DigiLocker+(500M%2B+Users)" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 <div align="center">
 <p>
-🔐 <b>Application Security Specialist</b> with acknowledged contributions to <b>DigiLocker</b> (500M+ users)
+🎓 <b>B.Tech ECE</b> @ IIITDM Jabalpur | <b>JEE Top 1.2%</b> (Rank 18,000 / 1.5M)
 <br/>
-📊 <b>Quantitative Developer</b> building algorithmic trading systems and risk models
+� <b>Previously secured</b> national infrastructure at <b>DigiLocker</b> — acknowledged on <a href="https://www.digilocker.gov.in/security">Security Hall of Fame</a>
 <br/>
-🔧 <b>Open Source Contributor</b> to <b>Rizin</b> reverse engineering framework
+🔧 <b>Open Source Contributor</b> to <b>Rizin</b> reverse engineering framework (5 merged PRs)
 <br/>
-🎓 <b>B.Tech ECE</b> @ IIITDM Jabalpur | <b>JEE Top 1.2%</b>
+📊 <b>Building</b> AI-powered financial systems, quant models, and full-stack applications
 </p>
 </div>
 
@@ -148,20 +152,65 @@
 <br/>
 
 <details>
-<summary><h3>🛡️ Security & Reverse Engineering Toolkit</h3></summary>
+<summary><h3>🧰 Extended Toolkit</h3></summary>
 <br>
+
+<h4 align="center">🌐 Web & Backend</h4>
 <p align="center">
-<a href="#"><img alt="Frida" src="https://img.shields.io/badge/Frida-E5403C.svg?style=flat&logo=hackthebox&logoColor=white"></a>
-<a href="#"><img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-FF0000.svg?style=flat&logo=reverbnation&logoColor=white"></a>
-<a href="#"><img alt="IDA Pro" src="https://img.shields.io/badge/IDA_Pro-4B275F.svg?style=flat&logo=hackster&logoColor=white"></a>
-<a href="#"><img alt="Radare2" src="https://img.shields.io/badge/Radare2-1E1E1E.svg?style=flat&logo=radare2&logoColor=white"></a>
-<a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633.svg?style=flat&logo=hackaday&logoColor=white"></a>
-<a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white"></a>
-<a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-0078D4.svg?style=flat&logo=circle&logoColor=white"></a>
-<a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=flat&logo=circle&logoColor=white"></a>
-<a href="#"><img alt="Apktool" src="https://img.shields.io/badge/Apktool-3DDC84.svg?style=flat&logo=android&logoColor=white"></a>
-<a href="#"><img alt="JEB" src="https://img.shields.io/badge/JEB_Decompiler-6B4C9A.svg?style=flat&logo=android&logoColor=white"></a>
+<img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat&logo=node.js&logoColor=white">
+<img alt="Express" src="https://img.shields.io/badge/Express-404d59.svg?style=flat&logo=express&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white">
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
+<img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB.svg?style=flat&logo=material-ui&logoColor=white">
 </p>
+
+<h4 align="center">🗄️ Databases & Cloud</h4>
+<p align="center">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat&logo=mongodb&logoColor=white">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black">
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?style=flat&logo=neo4j&logoColor=white">
+<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?style=flat&logo=pinecone&logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white">
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white">
+</p>
+
+<h4 align="center">🤖 AI & Data</h4>
+<p align="center">
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini_AI-4285F4.svg?style=flat&logo=google&logoColor=white">
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat&logo=langchain&logoColor=white">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white">
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white">
+</p>
+
+<h4 align="center">🔐 Security & Reverse Engineering</h4>
+<p align="center">
+<img alt="Frida" src="https://img.shields.io/badge/Frida-E5403C.svg?style=flat&logo=frida&logoColor=white">
+<img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-FF0000.svg?style=flat&logo=ghidra&logoColor=white">
+<img alt="IDA Pro" src="https://img.shields.io/badge/IDA_Pro-4B275F.svg?style=flat&logo=ida&logoColor=white">
+<img alt="Radare2" src="https://img.shields.io/badge/Radare2-1E1E1E.svg?style=flat&logo=radare2&logoColor=white">
+<img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633.svg?style=flat&logo=burp-suite&logoColor=white">
+<img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white">
+<img alt="Nmap" src="https://img.shields.io/badge/Nmap-0078D4.svg?style=flat&logo=nmap&logoColor=white">
+<img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=flat&logo=metasploit&logoColor=white">
+</p>
+
+<h4 align="center">📱 Mobile & DevOps</h4>
+<p align="center">
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?style=flat&logo=expo&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2671E5.svg?style=flat&logo=github-actions&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white">
+</p>
+
 </details>
 
 <br/>
