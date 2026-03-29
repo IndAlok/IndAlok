@@ -113,7 +113,7 @@ I specialize in application security, Android reverse engineering, backend engin
 
 <p align="center">
   <img width="49%" src="./profile/stats.svg" alt="GitHub snapshot" />
-  <img width="49%" src="./profile/top-langs.svg" alt="Top languages" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=IndAlok&theme=transparent&hide_border=true&card_width=495" alt="Contribution streak" />
 </p>
 
 <p align="center">

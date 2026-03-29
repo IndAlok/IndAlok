@@ -21,16 +21,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=IndAlok&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=GitHub%20Snapshot
+          options: username=IndAlok&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=GitHub%20Snapshot
           path: profile/stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=IndAlok&theme=transparent&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=IndAlok&custom_title=Language%20Distribution
-          path: profile/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Commit cards
