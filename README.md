@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=IndAlok&style=flat-square&label=Profile%20Views" alt="Profile views" />
 </p>
 
-## Professional Summary
+## About Me
 
 I specialize in application security, Android reverse engineering, backend engineering, and AI-assisted systems for security and financial workflows. My work spans vulnerability assessment, dynamic instrumentation, binary analysis, secure API development, retrieval-augmented systems, and technically rigorous problem solving across engineering and research.
 
@@ -112,24 +112,19 @@ I specialize in application security, Android reverse engineering, backend engin
 ## GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="./metrics.base.svg" alt="Detailed GitHub metrics" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub snapshot" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="./metrics.languages.svg" alt="Language activity metrics" />
+  <img width="100%" src="./metrics.base.svg" alt="Detailed GitHub metrics" />
 </p>
 
 <details>
   <summary><strong>Extended Analytics</strong></summary>
   <br />
   <p align="center">
-    <img width="100%" src="./metrics.lines.svg" alt="Lines changed metrics" />
-  </p>
-  <p align="center">
-    <img width="100%" src="./metrics.habits.svg" alt="Coding habits metrics" />
-  </p>
-  <p align="center">
-    <img width="100%" src="./metrics.achievements.svg" alt="Achievements metrics" />
+    <img width="100%" src="./metrics.languages.svg" alt="Language activity metrics" />
   </p>
   <p align="center">
     <img width="100%" src="./metrics.iso.svg" alt="Contribution calendar metrics" />

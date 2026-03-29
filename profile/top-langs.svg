@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages placeholder</title>
+  <desc id="desc">This placeholder is shown until the GitHub Readme Stats workflow generates the top languages card.</desc>
+  <style>
+    .card {
+      fill: #ffffff;
+      stroke: #d0d7de;
+    }
+    .title {
+      fill: #24292f;
+      font: 600 24px 'Segoe UI', Arial, sans-serif;
+    }
+    .copy {
+      fill: #57606a;
+      font: 400 16px 'Segoe UI', Arial, sans-serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      .card {
+        fill: #0d1117;
+        stroke: #30363d;
+      }
+      .title {
+        fill: #f0f6fc;
+      }
+      .copy {
+        fill: #8b949e;
+      }
+    }
+  </style>
+  <rect class="card" x="1" y="1" width="493" height="193" rx="16" />
+  <text class="title" x="247.5" y="82" text-anchor="middle">Top Languages</text>
+  <text class="copy" x="247.5" y="112" text-anchor="middle">Generated automatically by the Readme Cards workflow.</text>
+</svg>
