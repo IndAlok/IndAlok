@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Snapshot, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 766, Total Commits  : 4384, Total PRs: 39, Total PRs Merged: 35, Merged PRs Percentage: 89.74, Total PRs Reviewed: 2, Total Issues: 2, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 767, Total Commits  : 4384, Total PRs: 39, Total PRs Merged: 35, Merged PRs Percentage: 89.74, Total PRs Reviewed: 2, Total Issues: 2, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 77.14282432253277;
+        stroke-dashoffset: 77.13654118749065;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >766</text>
+      >767</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
