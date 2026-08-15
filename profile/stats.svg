@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Snapshot, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 794, Total Commits  : 4448, Total PRs: 75, Total PRs Merged: 58, Merged PRs Percentage: 77.33, Total PRs Reviewed: 3, Total Issues: 3, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 794, Total Commits  : 4441, Total PRs: 71, Total PRs Merged: 55, Merged PRs Percentage: 77.46, Total PRs Reviewed: 3, Total Issues: 3, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #34d399;
+            fill: #006AFF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8b949e;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #417E87;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #34d399;
+      fill: #0579C3;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #34d399;
+      stroke: #006AFF;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #34d399;
+      stroke: #006AFF;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 58.49374223173168;
+        stroke-dashoffset: 59.76969899336387;
       }
     }
   
@@ -159,7 +159,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="stars"
       >794</text>
@@ -174,7 +174,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="commits"
       >4.4k</text>
@@ -189,10 +189,10 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="prs"
-      >75</text>
+      >71</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -204,10 +204,10 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs Merged:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >58</text>
+      >55</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -219,10 +219,10 @@
       <text class="stat  bold" x="25" y="12.5">Merged PRs Percentage:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >77.33 %</text>
+      >77.46 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -234,7 +234,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs Reviewed:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="reviews"
       >3</text>
@@ -249,7 +249,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="issues"
       >3</text>
@@ -264,7 +264,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="contribs"
       >30</text>

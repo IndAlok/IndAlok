@@ -1,0 +1,84 @@
+<svg width="550" height="250" viewBox="0 0 550 250" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bubble { fill: #e9e9eb; }
+    a { fill: #0079ff; text-decoration: underline; font-weight: 600; }
+    text { fill: #242424; font-size: 17px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: -0.02em; }
+    .typing-1 { opacity: 0; animation: fade-in-out 1.5s; }
+    .msg-1 { animation: wait 1.7s, msg-1 0.2s 1.7s; }
+    .typing-2 { opacity: 0; animation: wait 2.5s, fade-in-out 1.5s 2.5s; }
+    .msg-2 { animation: wait 4.2s, msg-2 0.2s 4.2s; }
+    .typing-3 { opacity: 0; animation: wait 5s, fade-in-out 1.5s 5s; }
+    .msg-3 { animation: wait 6.7s, msg-3 0.2s 6.7s; }
+    .typing-4 { opacity: 0; animation: wait 7.5s, fade-in-out 1.5s 7.5s; }
+    .msg-4 { animation: wait 9.2s, msg-4 0.2s 9.2s; }
+    
+    @keyframes wait { 0%, 100% { opacity: 0; } }
+    @keyframes fade-in-out { 0%, 100% { opacity: 0; } 25%, 90% { opacity: 1; } }
+    @keyframes msg-1 { 0% { opacity: 0; transform: translate(10px, 5px); } 100% { opacity: 1; transform: translate(10px, 0); } }
+    @keyframes msg-2 { 0% { opacity: 0; transform: translate(10px, 53px); } 100% { opacity: 1; transform: translate(10px, 48px); } }
+    @keyframes msg-3 { 0% { opacity: 0; transform: translate(10px, 101px); } 100% { opacity: 1; transform: translate(10px, 96px); } }
+    @keyframes msg-4 { 0% { opacity: 0; transform: translate(10px, 149px); } 100% { opacity: 1; transform: translate(10px, 144px); } }
+
+    @media (prefers-color-scheme: dark) {
+      .bubble { fill: #3b3b3d; }
+      text { fill: #f0f0f0; }
+      a { fill: #58a6ff; }
+    }
+  </style>
+
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8" width="70" height="42" rx="21" class="bubble" />
+    <circle cx="14" cy="33" r="8" class="bubble" />
+    <circle cx="4" cy="42" r="4" class="bubble" />
+    <circle cx="27" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" /></circle>
+    <circle cx="43" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
+    <circle cx="58" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="140" height="42" rx="18" />
+    <text x="15" y="27">Hey, I'm Alok.</text>
+  </g>
+
+  <g transform="translate(10, 48)" class="typing-2">
+    <rect x="8" width="70" height="42" rx="21" class="bubble" />
+    <circle cx="14" cy="33" r="8" class="bubble" />
+    <circle cx="4" cy="42" r="4" class="bubble" />
+    <circle cx="27" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" /></circle>
+    <circle cx="43" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
+    <circle cx="58" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="470" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">I build high-performance systems for Security &amp; Quant finance.</text>
+  </g>
+
+  <g transform="translate(10, 96)" class="typing-3">
+    <rect x="8" width="70" height="42" rx="21" class="bubble" />
+    <circle cx="14" cy="33" r="8" class="bubble" />
+    <circle cx="4" cy="42" r="4" class="bubble" />
+    <circle cx="27" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" /></circle>
+    <circle cx="43" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
+    <circle cx="58" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g transform="translate(10, 96)" class="msg-3">
+    <rect width="420" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">I&apos;m obsessed with scaling code and securing it.</text>
+  </g>
+
+  <g transform="translate(10, 144)" class="typing-4">
+    <rect x="8" width="70" height="42" rx="21" class="bubble" />
+    <circle cx="14" cy="33" r="8" class="bubble" />
+    <circle cx="4" cy="42" r="4" class="bubble" />
+    <circle cx="27" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" /></circle>
+    <circle cx="43" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
+    <circle cx="58" cy="21" r="5" fill="#999"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g transform="translate(10, 144)" class="msg-4">
+    <rect width="430" height="42" rx="18" class="bubble" />
+    <text x="15" y="27">Let&apos;s build: <a xlink:href="https://telegram.me/IndAlok">Telegram</a></text>
+  </g>
+</svg>
