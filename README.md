@@ -1,132 +1,101 @@
+<!-- Cards in ./profile are refreshed daily by .github/workflows/profile.yml -->
+
 <h1 align="center">Alok Kumar Mishra</h1>
-<p align="center"><strong>Security Researcher | Application Security | Reverse Engineering | Backend & AI Systems</strong></p>
-<p align="center">
-  I work at the intersection of cybersecurity, reverse engineering, backend engineering, and applied AI for
-  finance-focused systems, with an emphasis on secure architecture, deep technical analysis, and production-grade execution.
-</p>
 
 <p align="center">
-  <a href="https://indalok.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/indalok"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://indalok.medium.com"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://telegram.me/IndAlok"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://twitter.com/IndAnony"><img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:alok16022006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <strong>Security Researcher &amp; Developer</strong><br />
+  Acknowledged by Govt. of India · GSoC 2026 @ Rizin · AppSec, reverse engineering, AI/finance systems
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/IndAlok?label=Followers&style=flat-square" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/IndAlok?affiliations=OWNER%2CCOLLABORATOR&label=Repo%20Stars&style=flat-square" alt="Repository stars" />
-  <img src="https://komarev.com/ghpvc/?username=IndAlok&style=flat-square&label=Profile%20Views" alt="Profile views" />
-</p>
-
-## About Me
-
-I specialize in application security, Android reverse engineering, backend engineering, and AI-assisted systems for security and financial workflows. My work spans vulnerability assessment, dynamic instrumentation, binary analysis, secure API development, retrieval-augmented systems, and technically rigorous problem solving across engineering and research.
-
-## Focus Areas
-
-- Application security, VAPT, bug bounty research, and secure software practices.
-- Android reverse engineering, Frida-based instrumentation, and binary analysis workflows.
-- Full-stack and backend systems built with React, Next.js, Node.js, FastAPI, Firebase, and REST APIs.
-- AI and finance systems involving RAG, NLP, vector search, Neo4j, Gemini API, Basel III, and NPA/CRAR-oriented analysis.
-
-## Selected Highlights
-
-- Recognized in the MeitY Hall of Fame for securing DigiLocker.
-- Active open source contributor in the Rizin ecosystem.
-- Building AI-driven analytics and security-oriented engineering systems with a focus on depth, reliability, and real-world applicability.
-
-## Technical Competencies
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Smali-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Smali" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Security And Reverse Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/VAPT-0F172A?style=flat-square" alt="VAPT" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-7C3AED?style=flat-square" alt="Bug Bounty" />
-  <img src="https://img.shields.io/badge/AppSec-DC2626?style=flat-square" alt="Application Security" />
-  <img src="https://img.shields.io/badge/Android%20RE-16A34A?style=flat-square&logo=android&logoColor=white" alt="Android Reverse Engineering" />
-  <img src="https://img.shields.io/badge/Frida-C60C30?style=flat-square&logo=frida&logoColor=white" alt="Frida" />
-  <img src="https://img.shields.io/badge/Ghidra-F97316?style=flat-square" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-4B275F?style=flat-square" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/JEB-111827?style=flat-square" alt="JEB" />
-  <img src="https://img.shields.io/badge/Radare2-0F172A?style=flat-square" alt="Radare2" />
-  <img src="https://img.shields.io/badge/Rizin-111827?style=flat-square" alt="Rizin" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-1268B8?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-</p>
-
-### Web And Backend
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square" alt="REST APIs" />
-</p>
-
-### AI And Finance
-
-<p>
-  <img src="https://img.shields.io/badge/RAG%20Systems-0F766E?style=flat-square" alt="RAG Systems" />
-  <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" alt="NLP" />
-  <img src="https://img.shields.io/badge/Vector%20Search-0891B2?style=flat-square" alt="Vector Search" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Basel%20III-1D4ED8?style=flat-square" alt="Basel III" />
-  <img src="https://img.shields.io/badge/NPA%20%2F%20CRAR-0F766E?style=flat-square" alt="NPA and CRAR" />
-</p>
-
-### Tooling And Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="GitHub snapshot" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=IndAlok&theme=transparent&hide_border=true&card_width=495" alt="Contribution streak" />
+  <a href="https://indalok.github.io"><img src="https://img.shields.io/badge/Portfolio-indalok.github.io-0F766E?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/indalok"><img src="https://img.shields.io/badge/LinkedIn-indalok-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://indalok.medium.com"><img src="https://img.shields.io/badge/Medium-indalok-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://telegram.me/IndAlok"><img src="https://img.shields.io/badge/Telegram-IndAlok-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/IndAnony"><img src="https://img.shields.io/badge/X-IndAnony-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:alok16022006@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img width="100%" src="./metrics.base.svg" alt="Detailed GitHub metrics" />
+  <a href="https://indalok.github.io">Portfolio</a> ·
+  <a href="https://indalok.github.io/projects/">Projects</a> ·
+  <a href="https://indalok.github.io/contributions/">Open Source</a> ·
+  <a href="https://indalok.github.io/writing/">Writing</a> ·
+  <a href="https://indalok.github.io/resume/">Resume</a>
 </p>
 
-<details>
-  <summary><strong>Extended Analytics</strong></summary>
-  <br />
-  <p align="center">
-    <img width="100%" src="./metrics.languages.svg" alt="Language activity metrics" />
-  </p>
-  <p align="center">
-    <img width="100%" src="./metrics.iso.svg" alt="Contribution calendar metrics" />
-  </p>
-</details>
+---
+
+## About
+
+I work on application security, Android reverse engineering, and production systems where retrieval, risk, and correctness matter. Recent work includes responsible disclosure on national-scale infrastructure, core contributions in the Rizin ecosystem, and browser-based binary analysis.
+
+## Focus
+
+- **GSoC 2026 @ [Rizin](https://github.com/rizinorg)** - building [rz-frida](https://github.com/rizinorg/rz-frida), the Frida plugin for Rizin (device attach, session lifecycle, packaging).
+- **Open source** - merged work across `rizin`, `rz-frida`, Cutter, and the rest of [rizinorg](https://github.com/rizinorg).
+- **Security research** - AppSec, Android RE, and vulnerability assessment with responsible disclosure.
+
+## Selected work
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **rz-frida** | GSoC 2026 Frida plugin for Rizin: attach/spawn, session lifecycle, and installable packaging. | [repo](https://github.com/rizinorg/rz-frida) |
+| **DigiLocker** | 10+ critical/high findings on India's national document wallet (500M+ users). Credited by MeitY. | [credits](https://www.digilocker.gov.in/web/about/credits) |
+| **RzWeb** | Full Rizin-based reverse engineering in the browser via WebAssembly, plus the rzwasi build path. | [repo](https://github.com/IndAlok/rzweb) · [demo](https://rizin.pages.dev/) |
+| **Arthyx** | Retrieval and risk analysis over 500+ page filings (Basel III, NPA/CRAR, Neo4j). | [repo](https://github.com/IndAlok/Arthyx) · [demo](https://arthyx.pages.dev/) |
+| **NSure-AI** | Hybrid BM25 + vector retrieval for insurance PDFs; hackathon-winning RAG stack. | [repo](https://github.com/IndAlok/NSure-AI) · [demo](https://nsure-ai-indalok.vercel.app/) |
+
+## Highlights
+
+- Officially acknowledged by the Government of India for DigiLocker security research.
+- Google Summer of Code 2026 contributor with Rizin (`rz-frida`).
+- Active contributor in rizinorg (core, plugins, Cutter, packaging).
+- 1st place team lead, Can You Hack It (200+ participants); top-20 / 700+ at IIT Gandhinagar Hack To Future.
+- Regular CTF competitor with open-category finishes in the top 20 / 50 / 100.
+
+## Writing
+
+- [GSoC - Rizin: Week 3](https://indalok.medium.com/gsoc-rizin-week-3-570c186bfa1a) - Jun 2026
+- [GSoC - Rizin: Week 2](https://indalok.medium.com/gsoc-rizin-week-2-67d3e4eea88e) - Jun 2026
+- [GSoC - Rizin: Week 1](https://indalok.medium.com/gsoc-rizin-week-1-d3f86aa326d8) - May 2026
+- [BYPASS CTF 2025 (Writeups)](https://indalok.medium.com/bypass-ctf-2025-writeups-4da596940c03) - Jan 2026
+- [HelloWorld, Goodbye Protection: Disassembling a Broken DEX Challenge](https://indalok.medium.com/helloworld-goodbye-protection-disassembling-a-broken-dex-challenge-b8b34d6e08d8) - May 2025
+
+More on [Medium](https://indalok.medium.com) and the [writing page](https://indalok.github.io/writing/).
+
+## Stack
+
+| Area | Tools |
+| --- | --- |
+| **Languages** | Python, C/C++, Rust, Go, Java, TypeScript, JavaScript, Bash, SQL, Smali |
+| **Security** | VAPT, AppSec, Android RE, Frida, Ghidra, IDA, JEB, Rizin, Radare2, Burp |
+| **Engineering** | React, Next.js, Node.js, FastAPI, Firebase, Docker, Linux |
+| **AI / Finance** | RAG, NLP, vector search, Neo4j, Gemini, Basel III |
+
+## Activity
+
+Cards below are committed SVGs, refreshed daily in this repository. They do not depend on public hosted widgets.
+
+<p align="center">
+  <img src="./profile/stats.svg" width="400" alt="GitHub stats" />
+  <img src="./profile/languages.svg" width="400" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="./profile/streak.svg" width="495" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IndAlok/IndAlok/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IndAlok/IndAlok/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/IndAlok/IndAlok/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## Contact
+
+India · remote-friendly · open to relocation for the right role.
+
+[Email](mailto:alok16022006@gmail.com) · [Telegram](https://telegram.me/IndAlok) · [LinkedIn](https://linkedin.com/in/indalok) · [Portfolio](https://indalok.github.io/contact/)
