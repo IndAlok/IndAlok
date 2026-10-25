@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/indalok"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://indalok.medium.com"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://telegram.me/IndAlok"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://twitter.com/IndAnony"><img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://X.com/IndAlok06"><img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:alok16022006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
